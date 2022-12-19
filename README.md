@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OjoFemiJoseph
+- 👋 Hi, I’m Joseph Ojo
 - 👀 I’m interested in anything Data
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Data Engineering
